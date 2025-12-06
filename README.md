@@ -58,13 +58,6 @@ Tests folder exists as a promise to the future version of you.
 
 The structure wasn't planned to be perfect—it just worked, and that’s sometimes good enough.
 
-Running the Application Locally
-1. Clone the repository
-   git clone https://github.com/salamiXpert12/your-repo-name.git
-cd your-repo-name
-
-Start the server:
-npm run Fleetdev
 
 
 
